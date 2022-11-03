@@ -38,3 +38,18 @@
          * some Changes in my game only number will used player enter number
          * all checking condition are avaliable
          * Play with friend and enjoy it..
+         
+         
+         
+  3.Flames calculator
+  
+  ![images](https://user-images.githubusercontent.com/96967364/199810649-c550d17c-e2db-410d-a003-ed902683dfb4.jpeg)
+  
+       # Game Play
+            *Take the two names.
+            *Remove the common characters with their respective common occurrences.
+            *Get the count of the characters that are left .
+            *Take FLAMES letters as [“F”, “L”, “A”, “M”, “E”, “S”]
+            *Start removing letter using the count we got.
+            *The letter which last the process is the result.
+
