@@ -52,4 +52,20 @@
             *Take FLAMES letters as [“F”, “L”, “A”, “M”, “E”, “S”]
             *Start removing letter using the count we got.
             *The letter which last the process is the result.
+            
+            
+  4.Rock Paper scissor 
+  
+   ![download](https://user-images.githubusercontent.com/96967364/201372353-7b50b8d9-912b-4971-9dde-79deb408181c.jpeg)
+   
+       # Game Play
+       
+            The players may count aloud to three, or speak the name of the game (e.g. "Rock! Paper! Scissors!"), 
+            either raising one hand in a fist and     
+            swinging it down with each syllable or holding it behind their back.
+            They then "throw" or "shoot" by extending it towards their opponent.
+            Variations include a version where players throw immediately on the 
+            third count (thus throwing on the count of "Scissors!"), or a version 
+            where they shake their hands three times before "throwing".
+
 
