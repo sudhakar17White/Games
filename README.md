@@ -70,10 +70,12 @@
   
   5.Lead Game
        
-       #Tips to create
+       Tips to create
        
             This game like a score borad 
             Easy math calculation 
             
-       #Website 
+        
+        
+     #Website 
             https://www.codechef.com/problems/TLG
