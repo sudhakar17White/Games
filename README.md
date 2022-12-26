@@ -67,5 +67,13 @@
             Variations include a version where players throw immediately on the 
             third count (thus throwing on the count of "Scissors!"), or a version 
             where they shake their hands three times before "throwing".
-
-
+  
+  5.Lead Game
+       
+       #Tips to create
+       
+            This game like a score borad 
+            Easy math calculation 
+            
+       #Website 
+            https://www.codechef.com/problems/TLG
